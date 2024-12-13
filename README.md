@@ -50,7 +50,7 @@ I'm <strong>Zakariae Youssefi</strong>, a data science graduate passionate about
 
 
 **Data Science Tools**  <img width="15" height="15" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5.png" alt="external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5"/>  
-*Data Manipulation:* <kbd>NumPy</kbd> <kbd>Pandas</kbd> <kbd>Scikit-learn</kbd> <kbd>TensorFlow</kbd>  
+*Data Manipulation:* <kbd>NumPy</kbd> <kbd>Pandas</kbd> <kbd>Scikit-learn</kbd> <kbd>TensorFlow</kbd> <kbd>Polars</kbd> <kbd>NetworkX</kbd>  
 *Data Visualization:* <kbd>Matplotlib</kbd> <kbd>Seaborn</kbd> <kbd>Power BI</kbd> <kbd>Tableau</kbd>
 
 **Soft Skills**  <img height="15" width="15" src="https://img.icons8.com/?size=30&id=SakkXeHgINB9&format=png&color=000000" />  
